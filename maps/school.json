@@ -1,5 +1,7 @@
 {
   "name": "Lady Docur's School for Girls",
+  "img": "https://yyk9137.github.io/my-vtt-maps/maps/school-bg.jpg",
+  "foreground": null,
   "width": 9000,
   "height": 9000,
   "grid": 150,
@@ -6258,4 +6260,5 @@
   ],
   "img": null,
   "foreground": null
+
 }
